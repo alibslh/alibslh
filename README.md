@@ -1,4 +1,4 @@
-<p align="center" font-size"42em">
+<p align="center">
 أهلًا وسهلًا
 </p>
 
